@@ -1,0 +1,10 @@
+# Local engine asset vaults
+local_vault/
+chunks_storage/
+raw_filings/
+processed_filings/
+
+# System and Python cache collections
+__pycache__/
+.venv/
+.streamlit/secrets.toml
